@@ -1,0 +1,35 @@
+{
+  "modelName": "texture",
+  "name": "R8(1)",
+  "identifier": "texture:18291-ac7c9b93-65b4-49a0-87e5-0a3896956ce7",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetLocator": "textures/R8(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 98,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 434,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4b67ec6cf25ad9f6b307e255ef2aaf3f",
+      "colorCount": 314,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.650132194611499,
+      "pixelsHigh": 98,
+      "pixelsWide": 434
+    }
+  ]
+}

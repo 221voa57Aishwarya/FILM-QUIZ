@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "title_",
+  "identifier": "texture:11237-ac7c9b93-65b4-49a0-87e5-0a3896956ce7",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "6173e82a376789440f5e4e4657778c63",
+  "assetLocator": "textures/repunzel quiz questions/title_.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:12229-ac7c9b93-65b4-49a0-87e5-0a3896956ce7",
+    "textureExportConfig:13225-ac7c9b93-65b4-49a0-87e5-0a3896956ce7",
+    "textureExportConfig:14225-ac7c9b93-65b4-49a0-87e5-0a3896956ce7"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 585,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "6173e82a376789440f5e4e4657778c63",
+      "colorCount": 6392,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 1.9593634102235162,
+      "pixelsHigh": 585,
+      "pixelsWide": 1024
+    }
+  ]
+}
